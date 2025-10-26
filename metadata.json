@@ -1,0 +1,5 @@
+{
+  "name": "Image to PDF Converter",
+  "description": "A free online tool to convert PNG, JPG, and WebP images to high-quality PDF files directly in your browser. Features drag-and-drop, batch conversion, and customizable page options.",
+  "requestFramePermissions": []
+}
